@@ -1,6 +1,6 @@
 # photoshop-actions
 
-My name's Dale and I'm an architectural photogapher at [High Rise Photo](https://www.highrisephoto.com). I also happen to be a computer engineer in my past career, and I recognize the value in sharing and distributing knowledge.
+My name's Dale and I'm an architectural photographer at [High Rise Photo](https://www.highrisephoto.com). I also happen to be a computer engineer in my past career, and I recognize the value in sharing and distributing knowledge.
 
 /**Photoshop Actions**/ is a set of actions that I commonly use in Photoshop for my day-to-day workflows. The actions were created around the concept of a Photoshop master file, and are designed to be non-destructive wherever possible.
 
@@ -18,7 +18,7 @@ In the Actions panel, click on the action to run, and hit the "Play" button at t
 
 Credits : Most of the Basic and Printing actions are automated versions of what [Michael Sims](http://www.michaelhughsims.com/ "Michael Sims") taught me during my MFA, at the Academy of Art. Color casts correction technique demonstrated by [Michael Woloszynowicz](http://www.vibrantshot.com/ "Michael Woloszynowicz").
 
-See LICENSE.MD file for licensing terms. This project is covered by a GNU GPL license - You'll have to credit and share all copies _and_ derivatives under the same license.
+See [LICENSE](https://github.com/daletan/photoshop-actions/blob/master/LICENSE) file for licensing terms. This project is covered by a GNU GPL license - You'll have to credit and share all copies _and_ derivatives under the same license.
 
 ## Questions, comments? 
 Reach out by leaving comments here, or email me : [daletan@users.noreply.github.com](mailto:daletan@users.noreply.github.com)
